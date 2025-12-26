@@ -1,0 +1,2 @@
+Customer Churn Prediction Project
+Developed a machine learning model to predict customer churn using demographic and service usage data. Performed data cleaning, exploratory data analysis, and feature engineering to identify key churn factors. Built and evaluated models using Logistic Regression, Random Forest, and XGBoost, achieving strong predictive performance. The project helps businesses identify at-risk customers and improve retention strategies.
